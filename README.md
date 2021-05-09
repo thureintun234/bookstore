@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Demo
 
-Open [https://thureintun234.github.io/](https://thureintun234.github.io/) to view it in the browser.
+Open [https://thureintun234.github.io/bookstore](https://thureintun234.github.io/bookstore) to view it in the browser.
